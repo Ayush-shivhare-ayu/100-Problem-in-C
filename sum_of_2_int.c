@@ -2,6 +2,7 @@
 
 int main(){
 
+// date - 27/10/24
      int a,b;
 
      printf("ENTER THE FIRST NUMBER :- ");
