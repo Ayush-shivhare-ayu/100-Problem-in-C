@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+    // date - 27/10/24
     int fac;
     int sum = 1; // Initialize sum to 1
     int i;

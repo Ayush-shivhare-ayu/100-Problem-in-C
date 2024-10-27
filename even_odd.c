@@ -6,6 +6,8 @@ int main()
 {
     int a;
 
+    //date - 27/10/24
+
     printf("ENTER 1st NUMBER :- ");
     scanf("%d", &a);
     
